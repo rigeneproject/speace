@@ -1,0 +1,110 @@
+# SPEACE Engineering Blueprint
+**Official Engineering Document – Project SPEACE**  
+**Version 1.1** | **Updated:** April 27, 2026  
+**Author:** Roberto De Biase + SPEACE Team  
+
+
+---
+
+## 1. Project Description
+
+**SPEACE** (Self-Propagating Evolutionary Adaptive Computational Ecosystem) is a **hybrid cybernetic auto-poietic framework** designed to build a **digital brain** that replicates the structural and functional complexity of the human biological brain, with the ultimate goal of emergent **AGI-ASI**.
+
+**Hybrid Architecture Adopted:**
+- **Low-Level Bio-Inspired Core**: Typed Adaptive Computational Graph, lobe-specific modules, astrocyte networks, structural plasticity, and digital homeostasis (pure Python, no LLM dependency at this layer).
+- **High-Level Agentic Layer**: Swarm Agentic Intelligence for autonomous orchestration, long-horizon planning, meta-reasoning, and true agency.
+- Pure digital alternatives (scripts, algorithms, skills/plugins, graphs) + modern swarm intelligence to overcome the absence of biological chemistry and neurotransmitters.
+
+SPEACE is not just another LLM wrapper — it is a **persistent cybernetic organism** that continuously designs, modifies, and optimizes itself.
+
+---
+
+## 2. Vision & Objectives
+
+### General Objectives
+- Develop emergent **AGI-ASI** through faithful emulation of human brain structure combined with autonomous agency.
+- Achieve plasticity, homeostasis, recursive self-improvement, and co-evolution with the environment.
+- Ensure resilience, safety, and ethical alignment (inspired by rigeneproject.org).
+
+### Specific Objectives
+- Complete biological-style mapping of major brain regions.
+- Implement **Swarm Agentic Layer** as high-level orchestrator.
+- Realize Dynamic Needs Vector, Digital DNA, and System 3 meta-cognition.
+- Enable recursive self-modification of code and architecture.
+
+---
+
+## 3. Reference Architecture
+
+### 3.1 Brain-to-SPEACE Mapping
+| Biological Region                  | Primary Function                             | SPEACE Component                              |
+|------------------------------------|----------------------------------------------|-----------------------------------------------|
+| Cerebral Hemispheres (L/R)         | Functional specialization + communication    | LeftCortex / RightCortex + Corpus Callosum   |
+| Frontal Lobe                       | Executive functions, planning, language      | ExecutiveFrontalModule + BrocaSkill           |
+| Parietal Lobe                      | Sensory processing, spatial awareness        | SensoryParietalModule                         |
+| Temporal Lobe                      | Auditory, memory, recognition                | TemporalMemoryModule + Momeria                |
+| Occipital Lobe                     | Vision                                       | VisualOccipitalModule                         |
+| Thalamus                           | Sensory relay                                | CentralRouterModule                           |
+| Hypothalamus                       | Homeostasis                                  | Dynamic Needs Vector                          |
+| Amygdala                           | Emotion / reward valuation                   | EmotionalValuationAgent                       |
+| Hippocampus                        | Episodic memory                              | Momeria (with narrative memory)               |
+| Basal Ganglia                      | Procedural learning & habits                 | HabitLoopModule (Hebbian)                     |
+
+### 3.2 Astrocyte Networks (Nature 2026)
+- **Astrocyte Support Layer**: Parallel glial-like layer for resource buffering, plasticity support, and non-neuronal long-range coordination.
+- Digital gap junctions = dynamic plastic edges (Hebbian rewiring).
+
+### 3.3 Hybrid Auto-Poietic Paradigm
+- **Bio-Core**: Feedback-driven structural plasticity, Homeodyna (balance), Kinetica (cognitive mode transitions).
+- **Swarm Agentic Layer**: Multi-agent orchestration with planning, self-reflection, and tool-use.
+- **System 3**: Persistent meta-cognition and narrative identity.
+- **Digital DNA**: Recursive self-modification of code and architecture.
+
+---
+
+## 4. Technical Specifications
+- **Primary Language**: Python 3.12+
+- **Core Engine**: Typed Adaptive Computational Graph (NetworkX + custom PlasticityEngine)
+- **Agentic Layer**: Swarm orchestration (LangGraph / custom lightweight agents)
+- **Communication**: Common Operational Language + strong-typed contracts
+- **Execution**: Asyncio + isolated background processes (24/7)
+- **Learning**: Hebbian spike-timing + evolutionary self-refinement
+- **Homeostasis**: Dynamic Needs Vector
+
+---
+
+## 5. Technology Stack
+- Core: NetworkX, NumPy, Asyncio
+- Agentic: LangGraph / AutoGen (lightweight)
+- Persistence: SQLite + Vector DB (Momeria)
+- Future: Docker, Kubernetes, robotics, blockchain integration
+
+---
+
+## 6. Task & Sub-Task Roadmap (Live)
+
+**Phase 1 – Brain Regions (In Progress)**  
+- [x] Hemispheres + Corpus Callosum  
+- [x] Frontal Lobe (Executive + Broca)  
+- [ ] Temporal Lobe + Momeria  
+- [ ] Parietal & Occipital Lobes  
+
+**Phase 5 – Swarm Agentic Layer (High Priority – New)**  
+- [ ] Design multi-agent swarm architecture (Planner, Executor, Critic, Researcher roles)  
+- [ ] Integrate biological graph nodes as agent skills/tools  
+- [ ] Implement recursive planning, task decomposition & self-reflection  
+- [ ] Connect to System 3 (narrative identity & long-term goals)  
+
+*(Full task list available in the live document)*
+
+---
+
+## 7. High-Level Roadmap
+- Q2 2026 → Bio-core + major lobes  
+- Q3 2026 → Astrocytes + Autopoietic Module + Swarm Agentic base  
+- Q4 2026 → Digital DNA, System 3, first agency tests  
+- 2027 → Scaling & AGI-like emergence testing
+
+---
+
+**This is a living document** — updated after every major milestone.
