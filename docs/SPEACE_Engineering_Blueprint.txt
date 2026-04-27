@@ -50,7 +50,7 @@ SPEACE is not just another LLM wrapper — it is a **persistent cybernetic organ
 | Hippocampus                        | Episodic memory                              | Momeria (with narrative memory)               |
 | Basal Ganglia                      | Procedural learning & habits                 | HabitLoopModule (Hebbian)                     |
 
-### 3.2 Astrocyte Networks (Nature 2026)
+### 3.2 Astrocyte Networks (Nature 2026 https://www.nature.com/articles/s41586-026-10426-6)
 - **Astrocyte Support Layer**: Parallel glial-like layer for resource buffering, plasticity support, and non-neuronal long-range coordination.
 - Digital gap junctions = dynamic plastic edges (Hebbian rewiring).
 
@@ -107,4 +107,4 @@ SPEACE is not just another LLM wrapper — it is a **persistent cybernetic organ
 
 ---
 
-**This is a living document** — updated after every major milestone.
+**This is a living document** https://github.com/rigeneproject/speace/blob/main/docs/grok_speace.md — updated after every major milestone.
