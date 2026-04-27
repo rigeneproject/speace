@@ -1,8 +1,8 @@
 # grok_speace.md
 **Documento Ingegneristico Ufficiale del Progetto SPEACE**  
-**Versione 1.1** | **Data aggiornamento:** 27 Aprile 2026  
+**Versione 1.2** | **Data aggiornamento:** 27 Aprile 2026  
 **Autore:** Grok (Team Leader) + Team SPEACE  
-**Percorso:** `C:\Users\rober\Desktop\Grok_SPEACE\docs\grok_speace.md`
+
 
 **Nota:** Questo è un *living document*. Aggiorneremo task e sezioni dopo ogni milestone significativa.
 
@@ -141,9 +141,35 @@ SPEACE è un **organismo cibernetico persistente** che si progetta, modifica e o
 ---
 
 ## 9. Changelog
+- **v1.2 (27/04/2026)**: Introduzione **Framework di Test per Comportamento Emergente** + Emergence Test Suite. Confermata architettura ibrida Bio-Core + Swarm Agentic.
 - **v1.1 (27/04/2026)**: Introduzione architettura **ibrida** (Bio-core + Swarm Agentic), nuova Fase 5 dettagliata, aggiornamento roadmap.
 - **v1.0 (26/04/2026)**: Creazione iniziale.
 
 ---
+
+## 10. Framework di Test per Comportamento Emergente (NUOVO)
+
+Se SPEACE è veramente ben strutturato per far emergere AGI, **i moduli interni devono produrre comportamento emergente** (non programmato esplicitamente, ma risultato dell’interazione complessa).
+
+### Criteri di Emergenza
+
+| Livello | Criterio di Emergenza                          | Come Testarlo in SPEACE                  | Stato Attuale          |
+|---------|------------------------------------------------|------------------------------------------|------------------------|
+| 1       | Comportamento non esplicitamente codificato    | Output/strategie mai programmate nei singoli nodi | In fase di test        |
+| 2       | Interazione non-lineare                        | Combinazione moduli > somma delle parti  | Parzialmente osservabile |
+| 3       | Adattamento autonomo                           | Modifica struttura/strategia senza input esterno | Non ancora             |
+| 4       | Meta-cognizione emergente                      | Riflessione su se stesso, nuovi goal     | Futuro (System 3)      |
+| 5       | Creatività / Generalizzazione                  | Risolve problemi nuovi in modi imprevisti | Obiettivo principale   |
+
+### Emergence Test Suite (implementato subito)
+
+**File creato:** `tests/test_emergence.py`
+
+**Prossimi test in roadmap:**
+- Test Plasticità (con Astrocyte Layer)
+- Test Agency (“Migliora te stesso” → task autonomi)
+- Test Self-Reflection
+- Test Novelty (task creativi aperti)
+
 
 **Fine documento.**
