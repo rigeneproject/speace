@@ -1,0 +1,4 @@
+networkx>=3.3
+numpy>=1.26.0
+asyncio (built-in)
+dataclasses (built-in)
